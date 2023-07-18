@@ -1,0 +1,20 @@
+{
+  "vars": {
+    "string": "text",
+    "list": [["list in list"], "item2", "item3"]
+  },
+  "game description": "description",
+  "question": {
+    "question1": ""
+  }
+}
+{
+  "vars": {
+    "string": "text",
+    "list": [["list in list"], "item2", "item3"]
+  },
+  "game description": "description",
+  "question": {
+    "question1": ""
+  }
+}
